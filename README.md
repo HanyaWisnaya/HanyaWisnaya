@@ -1,7 +1,7 @@
 ## Wisnaya
-Research on day, Develop on night
+Young guy who interested with technologies.
 
-📃 Bukkit Plugin Developer
-💻 Java, PHP, C#
+📃 Learning Bukkit & Godot
+💻 Mastering Java, C++ and GDScript
 
-Currently working on SevenA Server (Bedrock/Java crossplay) for fun. Check it out! (coming soon)
+Currently working on a small rpg indie game that probably discontinued. I did that just for fun, and maybe i could get a job?
