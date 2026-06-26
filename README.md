@@ -1,7 +1,13 @@
-## Wisnaya
-Young guy who interested with technologies.
+## I Made Gede Bagas Wisnaya
+16 years old boy who curious about everything
 
-📃 Learning Bukkit & Godot
-💻 Mastering Java, C++ and GDScript
+Experiences:
+>PocketMine-MP Plugin Development (2 yrs)
+>Bukkit Plugin Development (1 yrs)
+>Paper Mod Development (2 mo)
+>Godot Game Development (current)
 
-Currently working on a small rpg indie game that probably discontinued. I did that just for fun, and maybe i could get a job?
+Mastering Java, C++, GDScript language
+Currently learning Git & Bash
+
+Check out @soysauce.dev on Instagram!
