@@ -1,10 +1,11 @@
 ## I Made Gede Bagas Wisnaya
-16 years old boy who curious about everything
+16 years old curious boy
+Interests: Game Dev, Backend System, CC
 
 Experiences:
->PocketMine-MP Plugin Development (2 yrs)
->Bukkit Plugin Development (1 yrs)
->Paper Mod Development (2 mo)
+>PocketMine-MP Plugin Development (2 yrs)\n
+>Bukkit Plugin Development (1 yrs)\n
+>Paper Mod Development (2 mo)\n
 >Godot Game Development (current)
 
 Mastering Java, C++, GDScript language
