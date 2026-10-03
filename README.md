@@ -1,6 +1,6 @@
-## I Made Gede Bagas Wisnaya
-16 years old curious boy
-Interests: Game Dev, Backend System, CC
+Bagas Wisnaya (16)\n
+Starts from my curiosity with toys
+Interests: Game Development, Backend System, CS
 
 Experiences:
 -PocketMine-MP Plugin Development (2 yrs)
