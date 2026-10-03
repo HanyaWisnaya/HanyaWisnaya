@@ -1,5 +1,4 @@
 Bagas Wisnaya (16)
-
 Starts from my curiosity with toys
 
 Interests: Game Development, Backend System, CS
