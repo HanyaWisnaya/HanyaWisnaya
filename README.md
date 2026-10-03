@@ -9,7 +9,6 @@ Experiences:
 - Paper Mod Development (2 mo)
 - Godot Game Development (current)
 
-Mastering Java, C++, Godot Engine
-Currently learning Git & Linux Fundamentals
+Mastering Java, C++, Godot Engine. Also currently learning Git & Linux Fundamentals with my broke laptop
 
 >Check out @soysauce.dev on Instagram!
